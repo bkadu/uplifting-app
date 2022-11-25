@@ -5,5 +5,5 @@
 
 
 - Fun ideas resources to also try out
-- pnpm 
-- azure ML vs aws sage maker
+    - pnpm 
+    - azure ML vs aws sage maker`
