@@ -27,5 +27,5 @@ INSERT INTO quotes (quote, submitted_by, verified, insert_timestamp)
 VALUES 
         ('Once you know what failure feels like, determination chases success. - Kobe', 'Brent Bundang', True, current_timestamp),
         ($$It isn't the mountains ahead that wear you down. It's the pebble in your shoe.- Muhammad Ali$$, 'Brent Bundang', false, current_timestamp),
-        ($$Being brave isn’t not being scared, being brave is being scared and still doing something. -Michael Scott$$, 'Brent Bundand', true, current_timestamp);
+        ($$Being brave isn’t not being scared, being brave is being scared and still doing something. -Michael Scott$$, 'Brent Bundang', true, current_timestamp);
 
