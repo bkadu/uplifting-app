@@ -17,7 +17,7 @@ services:
       - "8080:8080"
     depends_on:
       - "db"
-    #restart: always
+    restart: always
     environment:
       ## postgres database to store Hasura metadata
       HASURA_GRAPHQL_METADATA_DATABASE_URL: postgres://postgres:postgres@db:5432/postgres
